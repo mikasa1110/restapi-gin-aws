@@ -1,6 +1,6 @@
 # restapi-gin-gorm-docker
-# project 
-A practice project for building golang app and deploy it with docker.
+# AIm
+A practice for building golang app and deploy it with docker.
 RESTful API
 
 # Technologies Used
