@@ -1,5 +1,5 @@
 # restapi-gin-gorm-docker
-# AIm
+# Aim
 A practice for building golang app and deploy it with docker.
 RESTful API
 
