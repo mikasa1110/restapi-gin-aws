@@ -4,12 +4,12 @@ A practice for building golang app and deploy it with docker.
 RESTful API
 
 # Technologies Used
-Gin
-GORM
-PostgreSQL
+Gin,
+GORM,
+PostgreSQL and 
 Docker
 # Prerequisites
-Docker
+Docker and 
 Docker Compose
 # Getting Started
 Clone the repository.
